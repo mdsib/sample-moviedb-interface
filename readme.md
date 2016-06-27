@@ -10,6 +10,7 @@ A simple, currently unstyled react/redux app for discovering movies by popularit
 - install: `npm install`
 - set environmental variable `MDB_API_KEY=keyhashhere`
 - launch dev server using `npm start`
+- access on localhost:8080
 
 ### Motivations
 I've been learning about React and Redux recently, and thought this would be a good project to solidify some of my understanding of how the two work together.
